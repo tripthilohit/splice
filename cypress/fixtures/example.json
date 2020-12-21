@@ -1,4 +1,4 @@
 {
-  "postCount": 4,
-  "userCount": 3
+  "countUsers" : 3,
+  "email": "jsmith@test.com"
 }
