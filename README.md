@@ -3,7 +3,7 @@
 ### Website chosen to do the assignment
 I have chosen a public project from Github to do this project. Here is the link https://github.com/aditya-sridhar/simple-reactjs-app .
 
-Follow the following instaructions to first set up the project on your local:
+Follow the following instructions to first set up the project on your local:
 
 Step 1: Clone this project on your local using (if you have node JS already installed)
 ```git clone https://github.com/aditya-sridhar/simple-reactjs-app```
